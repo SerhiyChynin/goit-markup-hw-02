@@ -1,12 +1,9 @@
-
-body {
+body, ul, li {
     width: 1400px;
-}
-
-ul, li{
     text-decoration: none;
     list-style-type: none;
 }
+
 
 .blue_color{
     color: blue
